@@ -16,7 +16,7 @@ class ZCRMException extends \Exception
     //protected $file;
     
     // Source filename of exception
-    protected $line;
+    //protected $line;
     
     // Source line of exception
     private $trace;
